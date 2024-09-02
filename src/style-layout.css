@@ -1,0 +1,31 @@
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+    border: 1px solid rgb(207, 196, 74);
+    padding: 10px;
+    border-radius: 5px;
+}
+.header{
+    background-color: rgb(225, 225, 12);
+    height: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.container{
+    background-color: rgb(245, 253, 12);
+    padding: 10px;
+    color: rgb(65, 27, 13);
+    text-indent: 25px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-decoration: underline;
+}
+.footer{
+    background-color: rgb(187, 152, 70);
+    text-align: center;
+}
+body{
+    background-image: url(/imgg.jpg);
+    margin: 0%;    
+
+}

@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    box-sizing: border-box;
+    /* Box Sizing Berfungsi Untuk Mereset Nilai Margin Dan Padding */
+}
+body{
+    background-color: rgb(219, 116, 133);
+}
+div.container {
+    margin: auto;
+    width: 960px;
+    background-color: white;
+}
+div.header{
+    padding: 20px;
+}
+div.menu{
+    margin-left: 20px;
+}
+div.menu a{
+    color: salmon;
+    text-decoration: none;
+    padding-right: 10px;
+}
+div.menu a:hover{
+    background-color: aqua;
+}
+div.content{
+    padding: 20px; 
+    width: 600px;
+}
+
+div.content a{
+    text-decoration: none;
+    color:gray;
+}
+
+div.content h4{
+    color: deeppink;
+}
+div.footer{
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
